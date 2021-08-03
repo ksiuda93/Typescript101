@@ -1,0 +1,25 @@
+{
+  "name": "Typescript101",
+  "version": "1.0.0",
+  "description": "Repo for Typescript101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksiuda93/Typescript101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksiuda93/Typescript101/issues"
+  },
+  "homepage": "https://github.com/ksiuda93/Typescript101#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.1.0",
+    "typescript": "^3.5.3"
+  }
+}
