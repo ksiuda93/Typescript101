@@ -25,9 +25,9 @@ any = "String"; // to jest złe!
 let anyNumber : number = any;
 
 // Funkcje
-function sum(a: number, b: number) : number {
-    return a + b;
-}
+// function sum(a: number, b: number) : number {
+//     return a + b;
+// }
 
 // Arrow function 
 let suma = (a: number, b: number) => a + b;

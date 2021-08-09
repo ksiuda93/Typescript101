@@ -19,9 +19,9 @@ var any = "Paweł";
 any = "String"; // to jest złe!
 var anyNumber = any;
 // Funkcje
-function sum(a, b) {
-    return a + b;
-}
+// function sum(a: number, b: number) : number {
+//     return a + b;
+// }
 // Arrow function 
 var suma = function (a, b) { return a + b; };
 console.log(suma(10, 20));
@@ -41,3 +41,9 @@ var diece;
         console.log(name_1 + " ma " + age_1 + " lat");
     }
 }
+// void/undefined
+function printText(text) {
+    console.log(text);
+}
+// Unknown
+// Pozwala przypisać wartoś do unknown przy deklaracji ale nie pozwala na 
